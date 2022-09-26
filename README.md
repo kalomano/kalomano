@@ -8,12 +8,12 @@ I am actually working to improve myself, actually the most I've worked on is Ful
 
 Nowadays I am co-developing an app. 🍉 [Diet Timer](https://github.com/alesfg/diet-timer).
 
-I've worked on many proyects during my university degree as:
-[XO Rivals](https://github.com/VRSDevs/XO-Rivals),
-[XO Rivals IA](https://github.com/VRSDevs/XO-Rivals-IA),
-[Diet Timer](https://github.com/alesfg/diet-timer),
-[AndroidQuiz](https://github.com/Jorgee-sk/AndroidStudioVideogame),
-[Last nightfall](https://github.com/Fyrlian/GrupoDjer).
+I've worked on many proyects as:  
+- [AmazonWebScraping example](https://github.com/kalomano/Amazon-simple-web-scraping)💥  
+- [XO Rivals](https://github.com/VRSDevs/XO-Rivals)🎮  
+- [XO Rivals IA](https://github.com/VRSDevs/XO-Rivals-IA)🕹    
+- [AndroidQuiz](https://github.com/Jorgee-sk/AndroidStudioVideogame)❗  
+- [Last nightfall](https://github.com/Fyrlian/GrupoDjer)😱  
 
 ## 💬 Contact:
 📫 PabloRomeroHe@gmail.com
