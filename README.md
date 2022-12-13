@@ -20,5 +20,5 @@ I've worked on many proyects as:
 📫 PabloRomeroHe@gmail.com
 
 ![linkedlogo](https://user-images.githubusercontent.com/73484962/189169833-2f48dce9-cf9a-48c1-a463-b60b52f0e77c.png)
-[Pablo Romero](https://www.linkedin.com/in/pablo-romero-hern%C3%A1ndez-231534218/)
+[Pablo Romero](https://www.linkedin.com/in/pablo-romero-hern%C3%A1ndez-231534218/)                                                                   
 [Web Portfolio](https://kalomano.github.io/)
