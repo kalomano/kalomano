@@ -17,9 +17,9 @@ I've worked on many proyects as:
 - [Last nightfall](https://github.com/Fyrlian/GrupoDjer)😱  Multiplayer Web game on **Phaser3 (JavaScript)** and **REST API on Spring**.  
 
 ## 💬 Contact:
-📫 PabloRomeroHe@gmail.com
+- 📫 PabloRomeroHe@gmail.com
 
-![linkedlogo](https://user-images.githubusercontent.com/73484962/189169833-2f48dce9-cf9a-48c1-a463-b60b52f0e77c.png)
-[Pablo Romero](https://www.linkedin.com/in/pablo-romero-hern%C3%A1ndez-231534218/)
-![icons8-portfolio-50](https://user-images.githubusercontent.com/73484962/207462794-ab4819bf-f267-4231-a814-2f5aff32a03a.png)
+- ![linkedlogo](https://user-images.githubusercontent.com/73484962/189169833-2f48dce9-cf9a-48c1-a463-b60b52f0e77c.png)
+[Pablo Romero](https://www.linkedin.com/in/pablo-romero-hern%C3%A1ndez-231534218/)                                                                   
+- ![icons8-portfolio-50 (1)](https://user-images.githubusercontent.com/73484962/207462950-7ad95286-2ec8-476f-8e56-52b0e1b08441.png)
 [Web Portfolio](https://kalomano.github.io/)
